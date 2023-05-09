@@ -19,3 +19,4 @@ go build -a -o /tmp/cgo_eg .
 /tmp/cgo_eg
 
 https://www.golinuxcloud.com/cgo-tutorial/
+https://github.com/lxwagn/using-go-with-c-libraries
