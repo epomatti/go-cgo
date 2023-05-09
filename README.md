@@ -4,6 +4,9 @@ CGO
 
 ### Sample 1
 
+
+preamble
+
 ```
 go run main.go
 ```
