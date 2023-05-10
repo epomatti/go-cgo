@@ -1,6 +1,6 @@
 # go-cgo
 
-Simple examples running C/C++ code from Go.
+Simple examples running C code from Go.
 
 To run each of the examples do a `cd` in each directory.
 
