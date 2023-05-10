@@ -5,10 +5,10 @@ import "fmt"
 /*
 	#include <stdio.h>
 	#include <math.h>
-	#include "mylib.h"
+	#include "calc.h"
 */
 import "C"
 
 func main() {
-	fmt.Println(C.multiply(10, 20))
+	fmt.Println(C.add(1, 2))
 }
