@@ -12,7 +12,7 @@ Sample 1 will execute C code directly from the preamble:
 go run .
 ```
 
-### Sample 2
+### Sample 2 - C Files
 
 Sample 2 will run code in separate files, declared in the preamble:
 
