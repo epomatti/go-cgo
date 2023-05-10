@@ -2,18 +2,17 @@
 
 CGO
 
-### Sample 1
+### Sample 1 - Preamble only
 
-
-preamble
+Sample1 will execute C code directly from the Preamble:
 
 ```
-go run main.go
+go run .
 ```
-
 
 ### Sample 2
 
+Sample 2 will execute C code directly from the Preamble:
 
 go build -a -o /tmp/cgo_eg .
 /tmp/cgo_eg
